@@ -32,5 +32,5 @@ Em tarefas repetitivas ou testes que exigem sequências rápidas de cliques, uti
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/DevMecs/python-autoclicker.git](https://github.com/DevMecs/python-autoclicker.git)
-cd python-autoclicker
+git clone [https://github.com/DevMecs/autoclicker.git](https://github.com/DevMecs/autoclicker.git)
+cd autoclicker
